@@ -1,2 +1,2 @@
 # IoT_project
-Lights based on temeperature
+Lights change based on temeperature. Motion PIR sensor for activation.
